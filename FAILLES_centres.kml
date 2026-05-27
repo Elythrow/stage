@@ -1,0 +1,415 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="f" id="f">
+	<SimpleField name="fid" type="float"></SimpleField>
+</Schema>
+<Folder><name>f</name>
+  <Placemark id="f.1">
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#f">
+		<SimpleData name="fid">3</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>42.4530964161011,12.0490252286128 42.4907392090299,11.8979612542151</coordinates></LineString>
+  </Placemark>
+  <Placemark id="f.2">
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#f">
+		<SimpleData name="fid">4</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>42.4040463427888,11.9900340644452 42.4200463825208,11.895569995958</coordinates></LineString>
+  </Placemark>
+  <Placemark id="f.3">
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#f">
+		<SimpleData name="fid">5</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>42.4821339333349,12.110624331198 42.5014107061925,11.9253607709576</coordinates></LineString>
+  </Placemark>
+  <Placemark id="f.4">
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#f">
+		<SimpleData name="fid">6</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>42.5453859110649,12.1643135246832 42.5634270732695,11.9158505926313</coordinates></LineString>
+  </Placemark>
+  <Placemark id="f.5">
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#f">
+		<SimpleData name="fid">7</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>42.5161310001403,12.1500698896379 42.5235521018434,11.9085644444016</coordinates></LineString>
+  </Placemark>
+  <Placemark id="f.6">
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#f">
+		<SimpleData name="fid">8</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>42.5361538064392,12.1529927853972 42.5491884961736,11.9763209203937</coordinates></LineString>
+  </Placemark>
+  <Placemark id="f.7">
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#f">
+		<SimpleData name="fid">10</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>42.2429155955924,12.0828346552705 42.3706468542739,11.9609957617747 42.3706468542739,11.9609957617747</coordinates></LineString>
+  </Placemark>
+  <Placemark id="f.8">
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#f">
+		<SimpleData name="fid">11</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>41.9674286586832,12.0207236365847 42.1963023040653,11.917023599758</coordinates></LineString>
+  </Placemark>
+  <Placemark id="f.9">
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#f">
+		<SimpleData name="fid">12</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>41.9557687553594,11.9374356339945 42.0769565745342,11.9353286132116 42.0728532378945,11.9345670858416</coordinates></LineString>
+  </Placemark>
+  <Placemark id="f.10">
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#f">
+		<SimpleData name="fid">13</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>42.0294073771965,11.967699712668 42.1246732665363,11.9186746095372</coordinates></LineString>
+  </Placemark>
+  <Placemark id="f.11">
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#f">
+		<SimpleData name="fid">14</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>42.0878804486236,11.9598041806521 42.1456676458745,11.928520307756</coordinates></LineString>
+  </Placemark>
+  <Placemark id="f.12">
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#f">
+		<SimpleData name="fid">15</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>42.0893672293589,11.9464821447867 42.1439743339612,11.9237010440494</coordinates></LineString>
+  </Placemark>
+  <Placemark id="f.13">
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#f">
+		<SimpleData name="fid">18</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>42.100010610613,12.0739934098169 42.1971202588443,11.9755546672937</coordinates></LineString>
+  </Placemark>
+  <Placemark id="f.14">
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#f">
+		<SimpleData name="fid">20</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>42.140700295162,12.0835207313901 42.2017252744372,11.9898533229987</coordinates></LineString>
+  </Placemark>
+  <Placemark id="f.15">
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#f">
+		<SimpleData name="fid">25</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>42.1169766681295,12.0057864040154 42.1712636837021,11.9321695870241</coordinates></LineString>
+  </Placemark>
+  <Placemark id="f.16">
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#f">
+		<SimpleData name="fid">28</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>42.2257159726756,12.041150659029 42.3401921149036,11.8556984170241</coordinates></LineString>
+  </Placemark>
+  <Placemark id="f.17">
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#f">
+		<SimpleData name="fid">30</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>42.21760531216,12.0274050257307 42.2916646019706,11.8839445134651</coordinates></LineString>
+  </Placemark>
+  <Placemark id="f.18">
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#f">
+		<SimpleData name="fid">31</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>42.3636692620701,12.0256825057554 42.4104835572406,11.8596723612615</coordinates></LineString>
+  </Placemark>
+  <Placemark id="f.19">
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#f">
+		<SimpleData name="fid">33</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>42.3544021207614,11.9584221104254 42.3792703729982,11.9033695604674</coordinates></LineString>
+  </Placemark>
+  <Placemark id="f.20">
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#f">
+		<SimpleData name="fid">34</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>42.3477443814372,11.9466625846605 42.3693574598699,11.9118741345798</coordinates></LineString>
+  </Placemark>
+  <Placemark id="f.21">
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#f">
+		<SimpleData name="fid">36</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>42.2092498935159,11.9709741508888 42.2451245626513,11.9118534611911</coordinates></LineString>
+  </Placemark>
+  <Placemark id="f.22">
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#f">
+		<SimpleData name="fid">38</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>42.3092372867268,11.9934903482 42.3465183884218,11.9284252823902</coordinates></LineString>
+  </Placemark>
+  <Placemark id="f.23">
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#f">
+		<SimpleData name="fid">39</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>42.1669894611349,11.8924997836824 42.2345873134522,11.8228023193653</coordinates></LineString>
+  </Placemark>
+  <Placemark id="f.24">
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#f">
+		<SimpleData name="fid">40</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>42.1179116978186,11.8992432624242 42.2025008176112,11.8355588397678</coordinates></LineString>
+  </Placemark>
+  <Placemark id="f.25">
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#f">
+		<SimpleData name="fid">41</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>42.0906556412575,11.8566514174178 42.24139212193,11.6972356121444</coordinates></LineString>
+  </Placemark>
+  <Placemark id="f.26">
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#f">
+		<SimpleData name="fid">45</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>42.4564005176861,11.8969635910682 42.4849920904003,11.8126247573622</coordinates></LineString>
+  </Placemark>
+  <Placemark id="f.27">
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#f">
+		<SimpleData name="fid">43</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>42.4238496512377,11.9552321798922 42.4566976284833,11.8208318124374</coordinates></LineString>
+  </Placemark>
+  <Placemark id="f.28">
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#f">
+		<SimpleData name="fid">44</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>42.3634472667276,11.8961739948992 42.4246734706938,11.8119433045834</coordinates></LineString>
+  </Placemark>
+  <Placemark id="f.29">
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#f">
+		<SimpleData name="fid">49</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>41.8917237269546,11.9144644735157 42.043876295165,11.771992224359</coordinates></LineString>
+  </Placemark>
+  <Placemark id="f.30">
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#f">
+		<SimpleData name="fid">50</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>41.8447513224574,11.9149429554661 42.0247306812702,11.7774526303956</coordinates></LineString>
+  </Placemark>
+  <Placemark id="f.31">
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#f">
+		<SimpleData name="fid">51</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>41.8593016216177,11.8769445964707 42.0107010151843,11.7628832901839</coordinates></LineString>
+  </Placemark>
+  <Placemark id="f.32">
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#f">
+		<SimpleData name="fid">52</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>41.9989584437964,11.7070340608314 41.834033544311,11.8571939832872</coordinates></LineString>
+  </Placemark>
+  <Placemark id="f.33">
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#f">
+		<SimpleData name="fid">54</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>41.9929743916187,11.6923326282397 41.8617748858109,11.801953991035</coordinates></LineString>
+  </Placemark>
+  <Placemark id="f.34">
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#f">
+		<SimpleData name="fid">56</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>41.7640160383339,11.7684661787007 41.750728103591,11.7718763244284 41.833711378652,11.7448122079847</coordinates></LineString>
+  </Placemark>
+  <Placemark id="f.35">
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#f">
+		<SimpleData name="fid">60</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>41.8332194208281,11.73699256622 41.751626154872,11.7654280589627 41.751626154872,11.7654280589627 41.751626154872,11.7654280589627</coordinates></LineString>
+  </Placemark>
+  <Placemark id="f.36">
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#f">
+		<SimpleData name="fid">70</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>41.8322374819204,11.7294246993046 41.7799773724891,11.7504428223524</coordinates></LineString>
+  </Placemark>
+  <Placemark id="f.37">
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#f">
+		<SimpleData name="fid">71</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>41.9780465165734,11.6610239911521 41.8326488395471,11.7202647053224</coordinates></LineString>
+  </Placemark>
+  <Placemark id="f.38">
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#f">
+		<SimpleData name="fid">73</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>41.9511812693671,11.6153366731989 41.8036036407925,11.6557151101866</coordinates></LineString>
+  </Placemark>
+  <Placemark id="f.39">
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#f">
+		<SimpleData name="fid">80</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>41.958925700005,11.5941613177255 41.7804899748442,11.6508626131353</coordinates></LineString>
+  </Placemark>
+  <Placemark id="f.40">
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#f">
+		<SimpleData name="fid">81</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>41.9035419049183,11.6354363156323 41.8405830553872,11.6735326076801</coordinates></LineString>
+  </Placemark>
+  <Placemark id="f.41">
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#f">
+		<SimpleData name="fid">82</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>41.936265566911,11.5874728695815 41.7849813288756,11.6350112336554</coordinates></LineString>
+  </Placemark>
+  <Placemark id="f.42">
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#f">
+		<SimpleData name="fid">83</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>41.7239020084544,12.1100851450769 41.7229741266764,12.0182318766191</coordinates></LineString>
+  </Placemark>
+  <Placemark id="f.43">
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#f">
+		<SimpleData name="fid">84</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>41.7320533325271,12.0144476211195 41.7692659491982,11.9296126904612</coordinates></LineString>
+  </Placemark>
+  <Placemark id="f.44">
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#f">
+		<SimpleData name="fid">86</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>41.7378173113641,12.1067804942307 41.7354523292561,12.0323643532731</coordinates></LineString>
+  </Placemark>
+  <Placemark id="f.45">
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#f">
+		<SimpleData name="fid">88</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>41.7502147406832,12.1124651131565 41.7497398830903,12.0660117048819</coordinates></LineString>
+  </Placemark>
+  <Placemark id="f.46">
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#f">
+		<SimpleData name="fid">90</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>41.7868129030574,12.0719779226746 41.789581874933,11.9763968756691</coordinates></LineString>
+  </Placemark>
+  <Placemark id="f.47">
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#f">
+		<SimpleData name="fid">91</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>41.7592582895698,12.1049842612233 41.7592031374098,11.9946473456207</coordinates></LineString>
+  </Placemark>
+  <Placemark id="f.48">
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#f">
+		<SimpleData name="fid">92</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>41.7785295318557,12.1152130794076 41.7726044113838,12.0248323215343</coordinates></LineString>
+  </Placemark>
+  <Placemark id="f.49">
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#f">
+		<SimpleData name="fid">94</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>41.7678328289924,12.1080661164136 41.7666208228064,12.031319134454</coordinates></LineString>
+  </Placemark>
+  <Placemark id="f.50">
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#f">
+		<SimpleData name="fid">95</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>41.714425190873,12.0668754245297 41.6738698700568,11.9950926191045</coordinates></LineString>
+  </Placemark>
+  <Placemark id="f.51">
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#f">
+		<SimpleData name="fid">100</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>41.6743018374848,11.9959228910694 41.6194642786819,12.022309060403</coordinates></LineString>
+  </Placemark>
+  <Placemark id="f.52">
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#f">
+		<SimpleData name="fid">101</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>41.672907397832,12.026391816512 41.6061116819197,12.0441294428016</coordinates></LineString>
+  </Placemark>
+  <Placemark id="f.53">
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#f">
+		<SimpleData name="fid">103</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>41.6366794742862,12.1356280721167 41.6027330173331,12.0454126708994</coordinates></LineString>
+  </Placemark>
+  <Placemark id="f.54">
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#f">
+		<SimpleData name="fid">105</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>41.6497269946606,12.0926590094524 41.6268459157752,12.0998534796123</coordinates></LineString>
+  </Placemark>
+  <Placemark id="f.55">
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#f">
+		<SimpleData name="fid">106</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>41.6093929536536,12.1115316176568 41.5899726449354,12.0469659302175</coordinates></LineString>
+  </Placemark>
+  <Placemark id="f.56">
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#f">
+		<SimpleData name="fid">107</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>41.5890329868375,12.0469746606244 41.5381366446978,12.064401207</coordinates></LineString>
+  </Placemark>
+  <Placemark id="f.57">
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#f">
+		<SimpleData name="fid">108</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>41.5906552972718,12.0528177219998 41.5363702972545,12.0764423585821</coordinates></LineString>
+  </Placemark>
+  <Placemark id="f.58">
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#f">
+		<SimpleData name="fid">109</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>41.6110191135734,12.0580341583289 41.6771701502188,12.0453262348482</coordinates></LineString>
+  </Placemark>
+</Folder>
+</Document></kml>

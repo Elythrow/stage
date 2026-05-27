@@ -1,0 +1,1125 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="faille_test" id="faille_test">
+	<SimpleField name="id" type="float"></SimpleField>
+	<SimpleField name="longueur" type="float"></SimpleField>
+	<SimpleField name="orientatio" type="float"></SimpleField>
+	<SimpleField name="class-dir" type="string"></SimpleField>
+</Schema>
+<Folder><name>faille_test</name>
+  <Placemark id="faille_test.1">
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#faille_test">
+		<SimpleData name="id">41</SimpleData>
+		<SimpleData name="longueur">-9223372036854775808</SimpleData>
+		<SimpleData name="orientatio">-9223372036854775808</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><LineString><coordinates>41.1323697971465,10.5517155423511 41.0151942632139,10.3188246400567</coordinates></LineString></MultiGeometry>
+  </Placemark>
+  <Placemark id="faille_test.2">
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#faille_test">
+		<SimpleData name="id">42</SimpleData>
+		<SimpleData name="longueur">-9223372036854775808</SimpleData>
+		<SimpleData name="orientatio">-9223372036854775808</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><LineString><coordinates>41.1056960402976,10.4241927963084 41.0019494080523,10.1874119908186</coordinates></LineString></MultiGeometry>
+  </Placemark>
+  <Placemark id="faille_test.3">
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#faille_test">
+		<SimpleData name="id">43</SimpleData>
+		<SimpleData name="longueur">-9223372036854775808</SimpleData>
+		<SimpleData name="orientatio">-9223372036854775808</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><LineString><coordinates>41.131328411207,10.3994288699124 41.0864655434638,10.2616144286324</coordinates></LineString></MultiGeometry>
+  </Placemark>
+  <Placemark id="faille_test.4">
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#faille_test">
+		<SimpleData name="id">44</SimpleData>
+		<SimpleData name="longueur">-9223372036854775808</SimpleData>
+		<SimpleData name="orientatio">-9223372036854775808</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><LineString><coordinates>41.3084944996679,10.454950823102 41.2511970252488,10.3267240524668</coordinates></LineString></MultiGeometry>
+  </Placemark>
+  <Placemark id="faille_test.5">
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#faille_test">
+		<SimpleData name="id">45</SimpleData>
+		<SimpleData name="longueur">-9223372036854775808</SimpleData>
+		<SimpleData name="orientatio">-9223372036854775808</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><LineString><coordinates>41.3639290371074,10.3297008679671 41.3150875859179,10.1806150347527</coordinates></LineString></MultiGeometry>
+  </Placemark>
+  <Placemark id="faille_test.6">
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#faille_test">
+		<SimpleData name="id">46</SimpleData>
+		<SimpleData name="longueur">-9223372036854775808</SimpleData>
+		<SimpleData name="orientatio">-9223372036854775808</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><LineString><coordinates>41.3713784660608,10.3041099868971 41.3359802224912,10.1653334335174</coordinates></LineString></MultiGeometry>
+  </Placemark>
+  <Placemark id="faille_test.7">
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#faille_test">
+		<SimpleData name="id">47</SimpleData>
+		<SimpleData name="longueur">-9223372036854775808</SimpleData>
+		<SimpleData name="orientatio">-9223372036854775808</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><LineString><coordinates>41.3915262378,10.3162566005503 41.3492411666995,10.1510514757984</coordinates></LineString></MultiGeometry>
+  </Placemark>
+  <Placemark id="faille_test.8">
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#faille_test">
+		<SimpleData name="id">48</SimpleData>
+		<SimpleData name="longueur">-9223372036854775808</SimpleData>
+		<SimpleData name="orientatio">-9223372036854775808</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><LineString><coordinates>41.4102675450475,10.2688292125493 41.3711472107243,10.144273262539</coordinates></LineString></MultiGeometry>
+  </Placemark>
+  <Placemark id="faille_test.9">
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#faille_test">
+		<SimpleData name="id">60</SimpleData>
+		<SimpleData name="longueur">-9223372036854775808</SimpleData>
+		<SimpleData name="orientatio">-9223372036854775808</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><LineString><coordinates>41.8619105270145,10.3881518820641 41.6769972444792,10.4326468216537</coordinates></LineString></MultiGeometry>
+  </Placemark>
+  <Placemark id="faille_test.10">
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#faille_test">
+		<SimpleData name="id">61</SimpleData>
+		<SimpleData name="longueur">-9223372036854775808</SimpleData>
+		<SimpleData name="orientatio">-9223372036854775808</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><LineString><coordinates>41.9229712178577,10.4122398034935 41.7426326452432,10.4521688363985</coordinates></LineString></MultiGeometry>
+  </Placemark>
+  <Placemark id="faille_test.11">
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#faille_test">
+		<SimpleData name="id">63</SimpleData>
+		<SimpleData name="longueur">-9223372036854775808</SimpleData>
+		<SimpleData name="orientatio">-9223372036854775808</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><LineString><coordinates>41.9418690783038,10.4613430654133 41.7237172972887,10.5034414557549</coordinates></LineString></MultiGeometry>
+  </Placemark>
+  <Placemark id="faille_test.12">
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#faille_test">
+		<SimpleData name="id">64</SimpleData>
+		<SimpleData name="longueur">-9223372036854775808</SimpleData>
+		<SimpleData name="orientatio">-9223372036854775808</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><LineString><coordinates>41.8718950772789,10.6700486865204 41.8475816346512,10.5352076123328</coordinates></LineString></MultiGeometry>
+  </Placemark>
+  <Placemark id="faille_test.13">
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#faille_test">
+		<SimpleData name="id">65</SimpleData>
+		<SimpleData name="longueur">-9223372036854775808</SimpleData>
+		<SimpleData name="orientatio">-9223372036854775808</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><LineString><coordinates>41.3975401580358,10.6649180690016 41.3430048674762,10.5329559588677</coordinates></LineString></MultiGeometry>
+  </Placemark>
+  <Placemark id="faille_test.14">
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#faille_test">
+		<SimpleData name="id">66</SimpleData>
+		<SimpleData name="longueur">-9223372036854775808</SimpleData>
+		<SimpleData name="orientatio">-9223372036854775808</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><LineString><coordinates>41.4295078917483,10.6226790665483 41.363307151887,10.5337179661889</coordinates></LineString></MultiGeometry>
+  </Placemark>
+  <Placemark id="faille_test.15">
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#faille_test">
+		<SimpleData name="id">67</SimpleData>
+		<SimpleData name="longueur">-9223372036854775808</SimpleData>
+		<SimpleData name="orientatio">-9223372036854775808</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><LineString><coordinates>41.4449621364413,10.593347296961 41.3971717638981,10.4987729734717</coordinates></LineString></MultiGeometry>
+  </Placemark>
+  <Placemark id="faille_test.16">
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#faille_test">
+		<SimpleData name="id">68</SimpleData>
+		<SimpleData name="longueur">-9223372036854775808</SimpleData>
+		<SimpleData name="orientatio">-9223372036854775808</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><LineString><coordinates>41.3247205136387,10.4317532991947 41.3925457925318,10.4969820475141</coordinates></LineString></MultiGeometry>
+  </Placemark>
+  <Placemark id="faille_test.17">
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#faille_test">
+		<SimpleData name="id">67</SimpleData>
+		<SimpleData name="longueur">-9223372036854775808</SimpleData>
+		<SimpleData name="orientatio">-9223372036854775808</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><LineString><coordinates>41.4974460634966,10.6933470322496 41.4995613827345,10.7261919431426</coordinates></LineString></MultiGeometry>
+  </Placemark>
+  <Placemark id="faille_test.18">
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#faille_test">
+		<SimpleData name="id">68</SimpleData>
+		<SimpleData name="longueur">-9223372036854775808</SimpleData>
+		<SimpleData name="orientatio">-9223372036854775808</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><LineString><coordinates>41.3883601402856,10.4321968197997 41.3437531216354,10.3868800903133 41.3437735377067,10.3896187700004</coordinates></LineString></MultiGeometry>
+  </Placemark>
+  <Placemark id="faille_test.19">
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#faille_test">
+		<SimpleData name="id">69</SimpleData>
+		<SimpleData name="longueur">-9223372036854775808</SimpleData>
+		<SimpleData name="orientatio">-9223372036854775808</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><LineString><coordinates>41.392775961765,10.4066022661038 41.352810224683,10.3649032823372</coordinates></LineString></MultiGeometry>
+  </Placemark>
+  <Placemark id="faille_test.20">
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#faille_test">
+		<SimpleData name="id">70</SimpleData>
+		<SimpleData name="longueur">-9223372036854775808</SimpleData>
+		<SimpleData name="orientatio">-9223372036854775808</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><LineString><coordinates>41.3857059002888,10.3254053137182 41.4725586779083,10.4671577611756</coordinates></LineString></MultiGeometry>
+  </Placemark>
+  <Placemark id="faille_test.21">
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#faille_test">
+		<SimpleData name="id">71</SimpleData>
+		<SimpleData name="longueur">-9223372036854775808</SimpleData>
+		<SimpleData name="orientatio">-9223372036854775808</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><LineString><coordinates>41.4936277790629,10.677859391152 41.4734809159843,10.4671505990181</coordinates></LineString></MultiGeometry>
+  </Placemark>
+  <Placemark id="faille_test.22">
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#faille_test">
+		<SimpleData name="id">72</SimpleData>
+		<SimpleData name="longueur">-9223372036854775808</SimpleData>
+		<SimpleData name="orientatio">-9223372036854775808</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><LineString><coordinates>41.5472166794648,10.1665027364497 41.3055738617966,10.2140208838096</coordinates></LineString></MultiGeometry>
+  </Placemark>
+  <Placemark id="faille_test.23">
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#faille_test">
+		<SimpleData name="id">73</SimpleData>
+		<SimpleData name="longueur">-9223372036854775808</SimpleData>
+		<SimpleData name="orientatio">-9223372036854775808</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><LineString><coordinates>41.5780589506879,10.1242495246455 41.3029365113873,10.1942654956794</coordinates></LineString></MultiGeometry>
+  </Placemark>
+  <Placemark id="faille_test.24">
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#faille_test">
+		<SimpleData name="id">73</SimpleData>
+		<SimpleData name="longueur">-9223372036854775808</SimpleData>
+		<SimpleData name="orientatio">-9223372036854775808</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><LineString><coordinates>41.430950338704,10.1309313169742 41.348171082412,10.1531606491381</coordinates></LineString></MultiGeometry>
+  </Placemark>
+  <Placemark id="faille_test.25">
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#faille_test">
+		<SimpleData name="id">74</SimpleData>
+		<SimpleData name="longueur">-9223372036854775808</SimpleData>
+		<SimpleData name="orientatio">-9223372036854775808</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><LineString><coordinates>41.2810200395917,10.0943115182021 41.194373561591,10.0071454717763</coordinates></LineString></MultiGeometry>
+  </Placemark>
+  <Placemark id="faille_test.26">
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#faille_test">
+		<SimpleData name="id">75</SimpleData>
+		<SimpleData name="longueur">-9223372036854775808</SimpleData>
+		<SimpleData name="orientatio">-9223372036854775808</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><LineString><coordinates>41.2891044908968,10.0911657507588 41.2764988528221,10.0720964581835</coordinates></LineString></MultiGeometry>
+  </Placemark>
+  <Placemark id="faille_test.27">
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#faille_test">
+		<SimpleData name="id">76</SimpleData>
+		<SimpleData name="longueur">-9223372036854775808</SimpleData>
+		<SimpleData name="orientatio">-9223372036854775808</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><LineString><coordinates>41.2984095362015,10.0843036522381 41.2820410449057,10.0621710059966</coordinates></LineString></MultiGeometry>
+  </Placemark>
+  <Placemark id="faille_test.28">
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#faille_test">
+		<SimpleData name="id">77</SimpleData>
+		<SimpleData name="longueur">-9223372036854775808</SimpleData>
+		<SimpleData name="orientatio">-9223372036854775808</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><LineString><coordinates>41.3336105361555,10.3265973555964 41.2803345776921,10.1818655178225</coordinates></LineString></MultiGeometry>
+  </Placemark>
+  <Placemark id="faille_test.29">
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#faille_test">
+		<SimpleData name="id">78</SimpleData>
+		<SimpleData name="longueur">-9223372036854775808</SimpleData>
+		<SimpleData name="orientatio">-9223372036854775808</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><LineString><coordinates>41.226797621946,10.6646126834794 41.1615657561205,10.5642916998838</coordinates></LineString></MultiGeometry>
+  </Placemark>
+  <Placemark id="faille_test.30">
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#faille_test">
+		<SimpleData name="id">79</SimpleData>
+		<SimpleData name="longueur">-9223372036854775808</SimpleData>
+		<SimpleData name="orientatio">-9223372036854775808</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><LineString><coordinates>41.5757605282087,10.6034165316296 41.4021340846678,10.687045663587</coordinates></LineString></MultiGeometry>
+  </Placemark>
+  <Placemark id="faille_test.31">
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#faille_test">
+		<SimpleData name="id">80</SimpleData>
+		<SimpleData name="longueur">-9223372036854775808</SimpleData>
+		<SimpleData name="orientatio">-9223372036854775808</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><LineString><coordinates>41.5593515755391,10.5554212205421 41.4549841571656,10.5940247650557</coordinates></LineString></MultiGeometry>
+  </Placemark>
+  <Placemark id="faille_test.32">
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#faille_test">
+		<SimpleData name="id">81</SimpleData>
+		<SimpleData name="longueur">-9223372036854775808</SimpleData>
+		<SimpleData name="orientatio">-9223372036854775808</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><LineString><coordinates>41.5877084229471,10.4857390823182 41.5080231897987,10.5278071928056</coordinates></LineString></MultiGeometry>
+  </Placemark>
+  <Placemark id="faille_test.33">
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#faille_test">
+		<SimpleData name="id">82</SimpleData>
+		<SimpleData name="longueur">-9223372036854775808</SimpleData>
+		<SimpleData name="orientatio">-9223372036854775808</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><LineString><coordinates>41.6762436656921,10.5453148400987 41.6030785449693,10.5568915477741</coordinates></LineString></MultiGeometry>
+  </Placemark>
+  <Placemark id="faille_test.34">
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#faille_test">
+		<SimpleData name="id">83</SimpleData>
+		<SimpleData name="longueur">-9223372036854775808</SimpleData>
+		<SimpleData name="orientatio">-9223372036854775808</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><LineString><coordinates>41.6835198897525,10.5324604734607 41.5986820076781,10.5465711087089</coordinates></LineString></MultiGeometry>
+  </Placemark>
+  <Placemark id="faille_test.35">
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#faille_test">
+		<SimpleData name="id">84</SimpleData>
+		<SimpleData name="longueur">-9223372036854775808</SimpleData>
+		<SimpleData name="orientatio">-9223372036854775808</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><LineString><coordinates>41.6237162878078,10.5219961884089 41.7297452665519,10.468713070816</coordinates></LineString></MultiGeometry>
+  </Placemark>
+  <Placemark id="faille_test.36">
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#faille_test">
+		<SimpleData name="id">85</SimpleData>
+		<SimpleData name="longueur">-9223372036854775808</SimpleData>
+		<SimpleData name="orientatio">-9223372036854775808</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><LineString><coordinates>41.6173040127749,10.491588861194 41.7012094619968,10.4427621742649 41.7012094619968,10.4427621742649 41.7012094619968,10.4427621742649</coordinates></LineString></MultiGeometry>
+  </Placemark>
+  <Placemark id="faille_test.37">
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#faille_test">
+		<SimpleData name="id">86</SimpleData>
+		<SimpleData name="longueur">-9223372036854775808</SimpleData>
+		<SimpleData name="orientatio">-9223372036854775808</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><LineString><coordinates>41.7098000714878,10.5441708624735 41.9302609028605,10.4853594111724</coordinates></LineString></MultiGeometry>
+  </Placemark>
+  <Placemark id="faille_test.38">
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#faille_test">
+		<SimpleData name="id">87</SimpleData>
+		<SimpleData name="longueur">-9223372036854775808</SimpleData>
+		<SimpleData name="orientatio">-9223372036854775808</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><LineString><coordinates>41.8647978912085,10.5683281580623 41.8682731804046,10.5004269554312</coordinates></LineString></MultiGeometry>
+  </Placemark>
+  <Placemark id="faille_test.39">
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#faille_test">
+		<SimpleData name="id">88</SimpleData>
+		<SimpleData name="longueur">-9223372036854775808</SimpleData>
+		<SimpleData name="orientatio">-9223372036854775808</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><LineString><coordinates>41.9146876802368,10.6363180099342 41.8813908135236,10.5873195052224</coordinates></LineString></MultiGeometry>
+  </Placemark>
+  <Placemark id="faille_test.40">
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#faille_test">
+		<SimpleData name="id">89</SimpleData>
+		<SimpleData name="longueur">-9223372036854775808</SimpleData>
+		<SimpleData name="orientatio">-9223372036854775808</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><LineString><coordinates>41.9089629565871,10.526739563969 41.8924527365641,10.4532216824886</coordinates></LineString></MultiGeometry>
+  </Placemark>
+  <Placemark id="faille_test.41">
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#faille_test">
+		<SimpleData name="id">1</SimpleData>
+		<SimpleData name="longueur">11902</SimpleData>
+		<SimpleData name="orientatio">99</SimpleData>
+		<SimpleData name="class-dir">E</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><LineString><coordinates>41.6517196525853,10.8996265805586 41.7592921921843,10.8830740175374</coordinates></LineString></MultiGeometry>
+  </Placemark>
+  <Placemark id="faille_test.42">
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#faille_test">
+		<SimpleData name="id">2</SimpleData>
+		<SimpleData name="longueur">13386</SimpleData>
+		<SimpleData name="orientatio">100</SimpleData>
+		<SimpleData name="class-dir">E</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><LineString><coordinates>41.6218584437005,10.8833614626101 41.7423861629716,10.8621159243355</coordinates></LineString></MultiGeometry>
+  </Placemark>
+  <Placemark id="faille_test.43">
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#faille_test">
+		<SimpleData name="id">4</SimpleData>
+		<SimpleData name="longueur">6871</SimpleData>
+		<SimpleData name="orientatio">103</SimpleData>
+		<SimpleData name="class-dir">E</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><LineString><coordinates>41.6811235199481,10.8644921594778 41.7422772754361,10.8501853244771</coordinates></LineString></MultiGeometry>
+  </Placemark>
+  <Placemark id="faille_test.44">
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#faille_test">
+		<SimpleData name="id">5</SimpleData>
+		<SimpleData name="longueur">16262</SimpleData>
+		<SimpleData name="orientatio">183</SimpleData>
+		<SimpleData name="class-dir">S</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><LineString><coordinates>41.8730263778545,10.8333909947936 41.8642130121084,10.6866365706808</coordinates></LineString></MultiGeometry>
+  </Placemark>
+  <Placemark id="faille_test.45">
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#faille_test">
+		<SimpleData name="id">6</SimpleData>
+		<SimpleData name="longueur">10162</SimpleData>
+		<SimpleData name="orientatio">202</SimpleData>
+		<SimpleData name="class-dir">S</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><LineString><coordinates>41.6742411743112,11.0288485624016 41.6391080330121,10.9437938529721</coordinates></LineString></MultiGeometry>
+  </Placemark>
+  <Placemark id="faille_test.46">
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#faille_test">
+		<SimpleData name="id">7</SimpleData>
+		<SimpleData name="longueur">10244</SimpleData>
+		<SimpleData name="orientatio">194</SimpleData>
+		<SimpleData name="class-dir">S</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><LineString><coordinates>41.6463785358262,11.0300111111215 41.6232863901817,10.9402586900513</coordinates></LineString></MultiGeometry>
+  </Placemark>
+  <Placemark id="faille_test.47">
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#faille_test">
+		<SimpleData name="id">8</SimpleData>
+		<SimpleData name="longueur">7052</SimpleData>
+		<SimpleData name="orientatio">204</SimpleData>
+		<SimpleData name="class-dir">SW</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><LineString><coordinates>41.6267753293032,10.9145277429381 41.6011903236218,10.8560000569704</coordinates></LineString></MultiGeometry>
+  </Placemark>
+  <Placemark id="faille_test.48">
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#faille_test">
+		<SimpleData name="id">9</SimpleData>
+		<SimpleData name="longueur">13464</SimpleData>
+		<SimpleData name="orientatio">213</SimpleData>
+		<SimpleData name="class-dir">SW</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><LineString><coordinates>41.6133650315981,10.8678295839259 41.5465672502355,10.7655800886825</coordinates></LineString></MultiGeometry>
+  </Placemark>
+  <Placemark id="faille_test.49">
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#faille_test">
+		<SimpleData name="id">10</SimpleData>
+		<SimpleData name="longueur">9103</SimpleData>
+		<SimpleData name="orientatio">97</SimpleData>
+		<SimpleData name="class-dir">E</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><LineString><coordinates>41.7812782720622,10.8507530246934 41.8638049270889,10.8399009203209</coordinates></LineString></MultiGeometry>
+  </Placemark>
+  <Placemark id="faille_test.50">
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#faille_test">
+		<SimpleData name="id">11</SimpleData>
+		<SimpleData name="longueur">7757</SimpleData>
+		<SimpleData name="orientatio">96</SimpleData>
+		<SimpleData name="class-dir">E</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><LineString><coordinates>41.7987466225417,10.8322391502242 41.8692259536142,10.8242491978688</coordinates></LineString></MultiGeometry>
+  </Placemark>
+  <Placemark id="faille_test.51">
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#faille_test">
+		<SimpleData name="id">12</SimpleData>
+		<SimpleData name="longueur">5080</SimpleData>
+		<SimpleData name="orientatio">88</SimpleData>
+		<SimpleData name="class-dir">E</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><LineString><coordinates>41.7013606126422,10.8432045521877 41.74779740033,10.8446292165654</coordinates></LineString></MultiGeometry>
+  </Placemark>
+  <Placemark id="faille_test.52">
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#faille_test">
+		<SimpleData name="id">13</SimpleData>
+		<SimpleData name="longueur">8154</SimpleData>
+		<SimpleData name="orientatio">161</SimpleData>
+		<SimpleData name="class-dir">S</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><LineString><coordinates>41.8630719225509,10.9573762424269 41.886542143068,10.8874093645584</coordinates></LineString></MultiGeometry>
+  </Placemark>
+  <Placemark id="faille_test.53">
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#faille_test">
+		<SimpleData name="id">14</SimpleData>
+		<SimpleData name="longueur">22280</SimpleData>
+		<SimpleData name="orientatio">352</SimpleData>
+		<SimpleData name="class-dir">N</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><LineString><coordinates>41.9148043689274,10.6402835355931 41.8860834236236,10.8396929199904</coordinates></LineString></MultiGeometry>
+  </Placemark>
+  <Placemark id="faille_test.54">
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#faille_test">
+		<SimpleData name="id">15</SimpleData>
+		<SimpleData name="longueur">13164</SimpleData>
+		<SimpleData name="orientatio">32</SimpleData>
+		<SimpleData name="class-dir">NE</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><LineString><coordinates>41.5440446826203,10.7968112312702 41.6071285243024,10.8981734861314</coordinates></LineString></MultiGeometry>
+  </Placemark>
+  <Placemark id="faille_test.55">
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#faille_test">
+		<SimpleData name="id">16</SimpleData>
+		<SimpleData name="longueur">11649</SimpleData>
+		<SimpleData name="orientatio">187</SimpleData>
+		<SimpleData name="class-dir">S</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><LineString><coordinates>41.6205523687505,11.051347100629 41.6075532557151,10.9468188021597</coordinates></LineString></MultiGeometry>
+  </Placemark>
+  <Placemark id="faille_test.56">
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#faille_test">
+		<SimpleData name="id">17</SimpleData>
+		<SimpleData name="longueur">8901</SimpleData>
+		<SimpleData name="orientatio">208</SimpleData>
+		<SimpleData name="class-dir">SW</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><LineString><coordinates>41.5356198210973,10.7886188151125 41.4978948628406,10.7173228222112</coordinates></LineString></MultiGeometry>
+  </Placemark>
+  <Placemark id="faille_test.57">
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#faille_test">
+		<SimpleData name="id">18</SimpleData>
+		<SimpleData name="longueur">9379</SimpleData>
+		<SimpleData name="orientatio">100</SimpleData>
+		<SimpleData name="class-dir">E</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><LineString><coordinates>41.7901117501646,10.9020685880434 41.8744639639535,10.8866051071994</coordinates></LineString></MultiGeometry>
+  </Placemark>
+  <Placemark id="faille_test.58">
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#faille_test">
+		<SimpleData name="id">19</SimpleData>
+		<SimpleData name="longueur">13556</SimpleData>
+		<SimpleData name="orientatio">102</SimpleData>
+		<SimpleData name="class-dir">E</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><LineString><coordinates>41.9181880441996,10.8953689739672 42.0395604177911,10.8703318259103</coordinates></LineString></MultiGeometry>
+  </Placemark>
+  <Placemark id="faille_test.59">
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#faille_test">
+		<SimpleData name="id">20</SimpleData>
+		<SimpleData name="longueur">2119</SimpleData>
+		<SimpleData name="orientatio">287</SimpleData>
+		<SimpleData name="class-dir">W</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><LineString><coordinates>41.9088326239745,10.8881164175098 41.8903177630997,10.8937977184124</coordinates></LineString></MultiGeometry>
+  </Placemark>
+  <Placemark id="faille_test.60">
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#faille_test">
+		<SimpleData name="id">21</SimpleData>
+		<SimpleData name="longueur">16787</SimpleData>
+		<SimpleData name="orientatio">94</SimpleData>
+		<SimpleData name="class-dir">E</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><LineString><coordinates>41.7160579221374,10.8256364161134 41.8691298956441,10.8141551529462</coordinates></LineString></MultiGeometry>
+  </Placemark>
+  <Placemark id="faille_test.61">
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#faille_test">
+		<SimpleData name="id">21</SimpleData>
+		<SimpleData name="longueur">28707</SimpleData>
+		<SimpleData name="orientatio">110</SimpleData>
+		<SimpleData name="class-dir">E</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><LineString><coordinates>41.690938314276,11.0259471839033 41.9371529011533,10.9355650750121</coordinates></LineString></MultiGeometry>
+  </Placemark>
+  <Placemark id="faille_test.62">
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#faille_test">
+		<SimpleData name="id">22</SimpleData>
+		<SimpleData name="longueur">9340</SimpleData>
+		<SimpleData name="orientatio">90</SimpleData>
+		<SimpleData name="class-dir">E</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><LineString><coordinates>41.7771079775227,10.8012300697451 41.862510658217,10.801368437193</coordinates></LineString></MultiGeometry>
+  </Placemark>
+  <Placemark id="faille_test.63">
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#faille_test">
+		<SimpleData name="id">23</SimpleData>
+		<SimpleData name="longueur">9460</SimpleData>
+		<SimpleData name="orientatio">87</SimpleData>
+		<SimpleData name="class-dir">E</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><LineString><coordinates>41.7806351915752,10.7810070032557 41.8670034773718,10.7857254650776</coordinates></LineString></MultiGeometry>
+  </Placemark>
+  <Placemark id="faille_test.64">
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#faille_test">
+		<SimpleData name="id">24</SimpleData>
+		<SimpleData name="longueur">11444</SimpleData>
+		<SimpleData name="orientatio">28</SimpleData>
+		<SimpleData name="class-dir">NE</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><LineString><coordinates>41.5351078728712,10.8381927569738 41.5841816163117,10.9295771766292</coordinates></LineString></MultiGeometry>
+  </Placemark>
+  <Placemark id="faille_test.65">
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#faille_test">
+		<SimpleData name="id">25</SimpleData>
+		<SimpleData name="longueur">12637</SimpleData>
+		<SimpleData name="orientatio">9</SimpleData>
+		<SimpleData name="class-dir">N</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><LineString><coordinates>41.5532493780457,10.8967913090375 41.5718693695558,11.0095406345776</coordinates></LineString></MultiGeometry>
+  </Placemark>
+  <Placemark id="faille_test.66">
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#faille_test">
+		<SimpleData name="id">26</SimpleData>
+		<SimpleData name="longueur">14409</SimpleData>
+		<SimpleData name="orientatio">30</SimpleData>
+		<SimpleData name="class-dir">NE</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><LineString><coordinates>41.4680142507616,10.6955289434718 41.5330039812079,10.8088353710901</coordinates></LineString></MultiGeometry>
+  </Placemark>
+  <Placemark id="faille_test.67">
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#faille_test">
+		<SimpleData name="id">1</SimpleData>
+		<SimpleData name="longueur">-9223372036854775808</SimpleData>
+		<SimpleData name="orientatio">-9223372036854775808</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><LineString><coordinates>41.5120924331888,10.9754662305538 41.4118111233614,10.7431193134514 41.4118111233614,10.7431193134514 41.4106170486828,10.7419569249801</coordinates></LineString></MultiGeometry>
+  </Placemark>
+  <Placemark id="faille_test.68">
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#faille_test">
+		<SimpleData name="id">2</SimpleData>
+		<SimpleData name="longueur">-9223372036854775808</SimpleData>
+		<SimpleData name="orientatio">-9223372036854775808</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><LineString><coordinates>41.4444052814709,10.9631295877687 41.3456340086164,10.7658885061748 41.3456340086164,10.7658885061748 41.3456340086164,10.7658885061748 41.3456340086164,10.7658885061748 41.3456340086164,10.7658885061748 41.3456340086164,10.7658885061748 41.3456340086164,10.7658885061748 41.3456340086164,10.7658885061748 41.3456340086164,10.7658885061748</coordinates></LineString></MultiGeometry>
+  </Placemark>
+  <Placemark id="faille_test.69">
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#faille_test">
+		<SimpleData name="id">3</SimpleData>
+		<SimpleData name="longueur">-9223372036854775808</SimpleData>
+		<SimpleData name="orientatio">-9223372036854775808</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><LineString><coordinates>41.4135789153932,10.9633753227558 41.3387054421018,10.7893750841441 41.3387054421018,10.7893750841441 41.3387054421018,10.7893750841441 41.3387054421018,10.7893750841441 41.3387054421018,10.7893750841441 41.3387054421018,10.7893750841441 41.3387054421018,10.7893750841441 41.3387054421018,10.7893750841441 41.3387054421018,10.7893750841441 41.3387054421018,10.7893750841441 41.3387054421018,10.7893750841441 41.3387054421018,10.7893750841441 41.3387054421018,10.7893750841441 41.3387054421018,10.7893750841441</coordinates></LineString></MultiGeometry>
+  </Placemark>
+  <Placemark id="faille_test.70">
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#faille_test">
+		<SimpleData name="id">4</SimpleData>
+		<SimpleData name="longueur">-9223372036854775808</SimpleData>
+		<SimpleData name="orientatio">-9223372036854775808</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><LineString><coordinates>41.3865064067881,10.9881934546224 41.3019692924702,10.7896505973357 41.3019692924702,10.7896505973357 41.3019692924702,10.7896505973357</coordinates></LineString></MultiGeometry>
+  </Placemark>
+  <Placemark id="faille_test.71">
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#faille_test">
+		<SimpleData name="id">5</SimpleData>
+		<SimpleData name="longueur">-9223372036854775808</SimpleData>
+		<SimpleData name="orientatio">-9223372036854775808</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><LineString><coordinates>41.3201568139578,10.9957372659751 41.2916507444046,10.8354252921449 41.2916507444046,10.8354252921449 41.2916507444046,10.8354252921449</coordinates></LineString></MultiGeometry>
+  </Placemark>
+  <Placemark id="faille_test.72">
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#faille_test">
+		<SimpleData name="id">5</SimpleData>
+		<SimpleData name="longueur">-9223372036854775808</SimpleData>
+		<SimpleData name="orientatio">-9223372036854775808</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><LineString><coordinates>41.2989112357734,11.0087877533161 41.2917131857764,10.8436270371211 41.2917131857764,10.8436270371211</coordinates></LineString></MultiGeometry>
+  </Placemark>
+  <Placemark id="faille_test.73">
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#faille_test">
+		<SimpleData name="id">7</SimpleData>
+		<SimpleData name="longueur">-9223372036854775808</SimpleData>
+		<SimpleData name="orientatio">-9223372036854775808</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><LineString><coordinates>41.4434577076177,10.8471467987559 41.3525527862697,10.7412303322908 41.3525527862697,10.7412303322908</coordinates></LineString></MultiGeometry>
+  </Placemark>
+  <Placemark id="faille_test.74">
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#faille_test">
+		<SimpleData name="id">8</SimpleData>
+		<SimpleData name="longueur">-9223372036854775808</SimpleData>
+		<SimpleData name="orientatio">-9223372036854775808</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><LineString><coordinates>41.5421889840621,10.8896941965105 41.4556187321964,10.7392612481233</coordinates></LineString></MultiGeometry>
+  </Placemark>
+  <Placemark id="faille_test.75">
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#faille_test">
+		<SimpleData name="id">9</SimpleData>
+		<SimpleData name="longueur">-9223372036854775808</SimpleData>
+		<SimpleData name="orientatio">-9223372036854775808</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><LineString><coordinates>41.3733047885338,10.6672561018053 41.2966276447643,10.5518248269678</coordinates></LineString></MultiGeometry>
+  </Placemark>
+  <Placemark id="faille_test.76">
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#faille_test">
+		<SimpleData name="id">10</SimpleData>
+		<SimpleData name="longueur">-9223372036854775808</SimpleData>
+		<SimpleData name="orientatio">-9223372036854775808</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><LineString><coordinates>41.2342911801174,10.6108618910973 41.2016105126009,10.5126587864625</coordinates></LineString></MultiGeometry>
+  </Placemark>
+  <Placemark id="faille_test.77">
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#faille_test">
+		<SimpleData name="id">11</SimpleData>
+		<SimpleData name="longueur">-9223372036854775808</SimpleData>
+		<SimpleData name="orientatio">-9223372036854775808</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><LineString><coordinates>41.2867586485807,10.8155419047113 41.2316182523575,10.731576312652</coordinates></LineString></MultiGeometry>
+  </Placemark>
+  <Placemark id="faille_test.78">
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#faille_test">
+		<SimpleData name="id">13</SimpleData>
+		<SimpleData name="longueur">-9223372036854775808</SimpleData>
+		<SimpleData name="orientatio">-9223372036854775808</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><LineString><coordinates>41.2571817636415,10.822790227215 41.1960882048177,10.7341728874496</coordinates></LineString></MultiGeometry>
+  </Placemark>
+  <Placemark id="faille_test.79">
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#faille_test">
+		<SimpleData name="id">12</SimpleData>
+		<SimpleData name="longueur">-9223372036854775808</SimpleData>
+		<SimpleData name="orientatio">-9223372036854775808</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><LineString><coordinates>41.2719768537302,11.0535169402683 41.176652198947,10.8327435893041</coordinates></LineString></MultiGeometry>
+  </Placemark>
+  <Placemark id="faille_test.80">
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#faille_test">
+		<SimpleData name="id">14</SimpleData>
+		<SimpleData name="longueur">-9223372036854775808</SimpleData>
+		<SimpleData name="orientatio">-9223372036854775808</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><LineString><coordinates>41.2232257608492,10.8792829744524 41.1986276916351,10.7575913412904</coordinates></LineString></MultiGeometry>
+  </Placemark>
+  <Placemark id="faille_test.81">
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#faille_test">
+		<SimpleData name="id">15</SimpleData>
+		<SimpleData name="longueur">-9223372036854775808</SimpleData>
+		<SimpleData name="orientatio">-9223372036854775808</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><LineString><coordinates>41.2385319065467,10.8651103511226 41.2236846871105,10.7808487771417</coordinates></LineString></MultiGeometry>
+  </Placemark>
+  <Placemark id="faille_test.82">
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#faille_test">
+		<SimpleData name="id">16</SimpleData>
+		<SimpleData name="longueur">-9223372036854775808</SimpleData>
+		<SimpleData name="orientatio">-9223372036854775808</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><LineString><coordinates>41.25772756817,10.8954358964612 41.2501229095642,10.8298724545723</coordinates></LineString></MultiGeometry>
+  </Placemark>
+  <Placemark id="faille_test.83">
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#faille_test">
+		<SimpleData name="id">17</SimpleData>
+		<SimpleData name="longueur">-9223372036854775808</SimpleData>
+		<SimpleData name="orientatio">-9223372036854775808</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><LineString><coordinates>41.5003547020706,10.9896217006625 41.3886989794164,10.9659147029933</coordinates></LineString></MultiGeometry>
+  </Placemark>
+  <Placemark id="faille_test.84">
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#faille_test">
+		<SimpleData name="id">19</SimpleData>
+		<SimpleData name="longueur">-9223372036854775808</SimpleData>
+		<SimpleData name="orientatio">-9223372036854775808</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><LineString><coordinates>41.2183802541457,11.0246202559236 41.0156588332113,10.6885168966264</coordinates></LineString></MultiGeometry>
+  </Placemark>
+  <Placemark id="faille_test.85">
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#faille_test">
+		<SimpleData name="id">20</SimpleData>
+		<SimpleData name="longueur">-9223372036854775808</SimpleData>
+		<SimpleData name="orientatio">-9223372036854775808</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><LineString><coordinates>41.0248363290841,10.8208869833981 41.0165300034785,10.9955600852482</coordinates></LineString></MultiGeometry>
+  </Placemark>
+  <Placemark id="faille_test.86">
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#faille_test">
+		<SimpleData name="id">21</SimpleData>
+		<SimpleData name="longueur">-9223372036854775808</SimpleData>
+		<SimpleData name="orientatio">-9223372036854775808</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><LineString><coordinates>41.055427359206,10.9601423071375 41.091285023559,10.9997424006905</coordinates></LineString></MultiGeometry>
+  </Placemark>
+  <Placemark id="faille_test.87">
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#faille_test">
+		<SimpleData name="longueur">-9223372036854775808</SimpleData>
+		<SimpleData name="orientatio">-9223372036854775808</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><LineString><coordinates>41.060406640484,10.9940938860779 41.1044147459159,11.0113704410379 41.1044147459159,11.0113704410379</coordinates></LineString></MultiGeometry>
+  </Placemark>
+  <Placemark id="faille_test.88">
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#faille_test">
+		<SimpleData name="id">22</SimpleData>
+		<SimpleData name="longueur">-9223372036854775808</SimpleData>
+		<SimpleData name="orientatio">-9223372036854775808</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><LineString><coordinates>41.0296090333405,11.0001607130034 41.1141211641389,11.0417714064617</coordinates></LineString></MultiGeometry>
+  </Placemark>
+  <Placemark id="faille_test.89">
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#faille_test">
+		<SimpleData name="longueur">-9223372036854775808</SimpleData>
+		<SimpleData name="orientatio">-9223372036854775808</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry></MultiGeometry>
+  </Placemark>
+  <Placemark id="faille_test.90">
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#faille_test">
+		<SimpleData name="id">23</SimpleData>
+		<SimpleData name="longueur">-9223372036854775808</SimpleData>
+		<SimpleData name="orientatio">-9223372036854775808</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><LineString><coordinates>41.389373877416,10.952806108151 41.3426246206521,10.8462515465711</coordinates></LineString></MultiGeometry>
+  </Placemark>
+  <Placemark id="faille_test.91">
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#faille_test">
+		<SimpleData name="id">24</SimpleData>
+		<SimpleData name="longueur">-9223372036854775808</SimpleData>
+		<SimpleData name="orientatio">-9223372036854775808</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><LineString><coordinates>41.3428658967941,10.8188464601942 41.2952545573999,10.7724824078251</coordinates></LineString></MultiGeometry>
+  </Placemark>
+  <Placemark id="faille_test.92">
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#faille_test">
+		<SimpleData name="id">25</SimpleData>
+		<SimpleData name="longueur">-9223372036854775808</SimpleData>
+		<SimpleData name="orientatio">-9223372036854775808</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><LineString><coordinates>41.3346098560727,10.9258269895319 41.3061670115102,10.8330494924326</coordinates></LineString></MultiGeometry>
+  </Placemark>
+  <Placemark id="faille_test.93">
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#faille_test">
+		<SimpleData name="id">25</SimpleData>
+		<SimpleData name="longueur">-9223372036854775808</SimpleData>
+		<SimpleData name="orientatio">-9223372036854775808</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><LineString><coordinates>41.0387438378078,10.9402309993155 41.0555552635977,10.8123877948148</coordinates></LineString></MultiGeometry>
+  </Placemark>
+  <Placemark id="faille_test.94">
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#faille_test">
+		<SimpleData name="id">26</SimpleData>
+		<SimpleData name="longueur">-9223372036854775808</SimpleData>
+		<SimpleData name="orientatio">-9223372036854775808</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><LineString><coordinates>41.0134922226981,10.8115437039888 41.0018656483779,10.8073192369182</coordinates></LineString></MultiGeometry>
+  </Placemark>
+  <Placemark id="faille_test.95">
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#faille_test">
+		<SimpleData name="id">27</SimpleData>
+		<SimpleData name="longueur">-9223372036854775808</SimpleData>
+		<SimpleData name="orientatio">-9223372036854775808</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><LineString><coordinates>41.0134476208823,10.80485507101 41.0008295434786,10.7968147032945</coordinates></LineString></MultiGeometry>
+  </Placemark>
+  <Placemark id="faille_test.96">
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#faille_test">
+		<SimpleData name="id">18</SimpleData>
+		<SimpleData name="longueur">-9223372036854775808</SimpleData>
+		<SimpleData name="orientatio">-9223372036854775808</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><LineString><coordinates>41.0116835010366,10.8301889270969 41.0349811418632,10.7731808736149</coordinates></LineString></MultiGeometry>
+  </Placemark>
+  <Placemark id="faille_test.97">
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#faille_test">
+		<SimpleData name="id">19</SimpleData>
+		<SimpleData name="longueur">-9223372036854775808</SimpleData>
+		<SimpleData name="orientatio">-9223372036854775808</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><LineString><coordinates>41.058362264621,10.800737010939 41.0528782407833,10.7759294457968</coordinates></LineString></MultiGeometry>
+  </Placemark>
+  <Placemark id="faille_test.98">
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#faille_test">
+		<SimpleData name="id">20</SimpleData>
+		<SimpleData name="longueur">-9223372036854775808</SimpleData>
+		<SimpleData name="orientatio">-9223372036854775808</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><LineString><coordinates>41.0115719546376,10.8134673403536 41.0430021785357,10.7444616889219</coordinates></LineString></MultiGeometry>
+  </Placemark>
+  <Placemark id="faille_test.99">
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#faille_test">
+		<SimpleData name="id">21</SimpleData>
+		<SimpleData name="longueur">-9223372036854775808</SimpleData>
+		<SimpleData name="orientatio">-9223372036854775808</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><LineString><coordinates>41.0284251646029,10.7321349813516 41.005866619066,10.7547371473273</coordinates></LineString></MultiGeometry>
+  </Placemark>
+  <Placemark id="faille_test.100">
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#faille_test">
+		<SimpleData name="id">20</SimpleData>
+		<SimpleData name="longueur">-9223372036854775808</SimpleData>
+		<SimpleData name="orientatio">-9223372036854775808</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><LineString><coordinates>41.0991445887213,10.6179588649279 41.0529881274657,10.5035976508992</coordinates></LineString></MultiGeometry>
+  </Placemark>
+  <Placemark id="faille_test.101">
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#faille_test">
+		<SimpleData name="id">21</SimpleData>
+		<SimpleData name="longueur">-9223372036854775808</SimpleData>
+		<SimpleData name="orientatio">-9223372036854775808</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><LineString><coordinates>41.0945794868638,10.6566880623716 41.0644348563782,10.5551229540068</coordinates></LineString></MultiGeometry>
+  </Placemark>
+  <Placemark id="faille_test.102">
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#faille_test">
+		<SimpleData name="id">22</SimpleData>
+		<SimpleData name="longueur">-9223372036854775808</SimpleData>
+		<SimpleData name="orientatio">-9223372036854775808</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><LineString><coordinates>41.0818597891772,10.6328846227345 41.0518337022623,10.5480383881779</coordinates></LineString></MultiGeometry>
+  </Placemark>
+  <Placemark id="faille_test.103">
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#faille_test">
+		<SimpleData name="id">23</SimpleData>
+		<SimpleData name="longueur">-9223372036854775808</SimpleData>
+		<SimpleData name="orientatio">-9223372036854775808</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><LineString><coordinates>41.0721460328152,10.6248268570736 41.0450773208217,10.5485599408717</coordinates></LineString></MultiGeometry>
+  </Placemark>
+  <Placemark id="faille_test.104">
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#faille_test">
+		<SimpleData name="id">24</SimpleData>
+		<SimpleData name="longueur">-9223372036854775808</SimpleData>
+		<SimpleData name="orientatio">-9223372036854775808</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><LineString><coordinates>41.064879490491,10.6215303316945 41.0344676750197,10.5505395173678</coordinates></LineString></MultiGeometry>
+  </Placemark>
+  <Placemark id="faille_test.105">
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#faille_test">
+		<SimpleData name="id">25</SimpleData>
+		<SimpleData name="longueur">-9223372036854775808</SimpleData>
+		<SimpleData name="orientatio">-9223372036854775808</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><LineString><coordinates>41.0467509220672,10.655093283024 41.0147336589065,10.5602216453718</coordinates></LineString></MultiGeometry>
+  </Placemark>
+  <Placemark id="faille_test.106">
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#faille_test">
+		<SimpleData name="id">26</SimpleData>
+		<SimpleData name="longueur">-9223372036854775808</SimpleData>
+		<SimpleData name="orientatio">-9223372036854775808</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><LineString><coordinates>41.0493610770889,10.6842204276632 41.0046897979701,10.5750970199478</coordinates></LineString></MultiGeometry>
+  </Placemark>
+  <Placemark id="faille_test.107">
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#faille_test">
+		<SimpleData name="id">27</SimpleData>
+		<SimpleData name="longueur">-9223372036854775808</SimpleData>
+		<SimpleData name="orientatio">-9223372036854775808</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><LineString><coordinates>41.0291654422513,10.6982078830579 41.0007537383915,10.6381901804401</coordinates></LineString></MultiGeometry>
+  </Placemark>
+  <Placemark id="faille_test.108">
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#faille_test">
+		<SimpleData name="id">28</SimpleData>
+		<SimpleData name="longueur">-9223372036854775808</SimpleData>
+		<SimpleData name="orientatio">-9223372036854775808</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><LineString><coordinates>41.0408293744258,10.0008870129685 41.0663040360628,10.0455492877499</coordinates></LineString></MultiGeometry>
+  </Placemark>
+  <Placemark id="faille_test.109">
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#faille_test">
+		<SimpleData name="id">29</SimpleData>
+		<SimpleData name="longueur">-9223372036854775808</SimpleData>
+		<SimpleData name="orientatio">-9223372036854775808</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><LineString><coordinates>41.1054290696224,10.1016460007845 41.1454672774846,10.1955035898594</coordinates></LineString></MultiGeometry>
+  </Placemark>
+  <Placemark id="faille_test.110">
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#faille_test">
+		<SimpleData name="id">30</SimpleData>
+		<SimpleData name="longueur">-9223372036854775808</SimpleData>
+		<SimpleData name="orientatio">-9223372036854775808</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><LineString><coordinates>41.0989060102896,10.1913243176203 41.1219846779931,10.2603223012728</coordinates></LineString></MultiGeometry>
+  </Placemark>
+  <Placemark id="faille_test.111">
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#faille_test">
+		<SimpleData name="id">31</SimpleData>
+		<SimpleData name="longueur">-9223372036854775808</SimpleData>
+		<SimpleData name="orientatio">-9223372036854775808</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><LineString><coordinates>41.1253780301487,10.0893531125838 41.0892645549484,9.99930583487686</coordinates></LineString></MultiGeometry>
+  </Placemark>
+  <Placemark id="faille_test.112">
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#faille_test">
+		<SimpleData name="id">32</SimpleData>
+		<SimpleData name="longueur">-9223372036854775808</SimpleData>
+		<SimpleData name="orientatio">-9223372036854775808</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><LineString><coordinates>41.0963899543916,10.0024623583543 41.1700543649126,10.1037876752741 41.1700543649126,10.1037876752741</coordinates></LineString></MultiGeometry>
+  </Placemark>
+  <Placemark id="faille_test.113">
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#faille_test">
+		<SimpleData name="id">33</SimpleData>
+		<SimpleData name="longueur">-9223372036854775808</SimpleData>
+		<SimpleData name="orientatio">-9223372036854775808</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><LineString><coordinates>41.1460518806998,10.0892192689928 41.2507318590598,10.2761003249145</coordinates></LineString></MultiGeometry>
+  </Placemark>
+  <Placemark id="faille_test.114">
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#faille_test">
+		<SimpleData name="id">33</SimpleData>
+		<SimpleData name="longueur">-9223372036854775808</SimpleData>
+		<SimpleData name="orientatio">-9223372036854775808</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><LineString><coordinates>41.1222840416342,10.0112617660813 41.2363694715872,10.1635236882399</coordinates></LineString></MultiGeometry>
+  </Placemark>
+  <Placemark id="faille_test.115">
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#faille_test">
+		<SimpleData name="id">34</SimpleData>
+		<SimpleData name="longueur">-9223372036854775808</SimpleData>
+		<SimpleData name="orientatio">-9223372036854775808</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><LineString><coordinates>41.1727492408424,10.215810626545 41.1983605199302,10.2745391032736</coordinates></LineString></MultiGeometry>
+  </Placemark>
+  <Placemark id="faille_test.116">
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#faille_test">
+		<SimpleData name="id">35</SimpleData>
+		<SimpleData name="longueur">-9223372036854775808</SimpleData>
+		<SimpleData name="orientatio">-9223372036854775808</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><LineString><coordinates>41.155438226612,10.1403773583676 41.1757850177203,10.1869800252877</coordinates></LineString></MultiGeometry>
+  </Placemark>
+  <Placemark id="faille_test.117">
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#faille_test">
+		<SimpleData name="id">36</SimpleData>
+		<SimpleData name="longueur">-9223372036854775808</SimpleData>
+		<SimpleData name="orientatio">-9223372036854775808</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><LineString><coordinates>41.1751865507587,10.1940265457828 41.1817580642929,10.2099884085575</coordinates></LineString></MultiGeometry>
+  </Placemark>
+  <Placemark id="faille_test.118">
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#faille_test">
+		<SimpleData name="id">37</SimpleData>
+		<SimpleData name="longueur">-9223372036854775808</SimpleData>
+		<SimpleData name="orientatio">-9223372036854775808</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><LineString><coordinates>41.1939583841559,10.1983825588454 41.2018763484948,10.2220173691434</coordinates></LineString></MultiGeometry>
+  </Placemark>
+  <Placemark id="faille_test.119">
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#faille_test">
+		<SimpleData name="id">38</SimpleData>
+		<SimpleData name="longueur">-9223372036854775808</SimpleData>
+		<SimpleData name="orientatio">-9223372036854775808</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><LineString><coordinates>41.1889638412728,10.1292716734897 41.2157318287695,10.1694258720234</coordinates></LineString></MultiGeometry>
+  </Placemark>
+  <Placemark id="faille_test.120">
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#faille_test">
+		<SimpleData name="id">39</SimpleData>
+		<SimpleData name="longueur">-9223372036854775808</SimpleData>
+		<SimpleData name="orientatio">-9223372036854775808</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><LineString><coordinates>41.2404877393317,10.1980665851332 41.3000230697952,10.298800640998</coordinates></LineString></MultiGeometry>
+  </Placemark>
+  <Placemark id="faille_test.121">
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#faille_test">
+		<SimpleData name="id">40</SimpleData>
+		<SimpleData name="longueur">-9223372036854775808</SimpleData>
+		<SimpleData name="orientatio">-9223372036854775808</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><LineString><coordinates>41.1700252202195,10.0026303768802 41.2657012494,10.1076251157635</coordinates></LineString></MultiGeometry>
+  </Placemark>
+</Folder>
+</Document></kml>
